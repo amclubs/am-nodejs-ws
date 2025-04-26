@@ -1,0 +1,17 @@
+{
+  "name": "am-nodejs-ws",
+  "version": "1.0.0",
+  "description": "Deploy vless nodes on Serv00 free hosting website,YouTube频道：https://youtube.com/@am_clubs ,GitHub频道：https://github.com/amclubs ,交流频道：https://t.me/am_clubs",
+  "author": "AM科技",
+  "main": "index.js",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
